@@ -1,6 +1,6 @@
 # Flask Blog Project
 
-This is a project in flask created for learning how to connect sqlite database to flask backend. This is for learning only.
+This is a project in flask created for learning how to connect sqlite database to flask backend.
 
 ## Screenshots
 ![Markdown symbol](images/1.png)
